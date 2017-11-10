@@ -1,0 +1,37 @@
+<style  TYPE="text/css">
+	body {
+		background-color: #F4F4F4;
+		color:#373737
+	}
+	
+	h1 {
+	background-color:#C0B283;
+	}
+	
+	h2 {
+	background-color:#DCD0C0;
+	}
+	
+	h3 {
+	background-color:#DCD0C0;
+	}
+	a {
+		color:#C0B283;
+	}
+
+	html{
+		font-family: Arial;
+		font-size: 16px
+	}
+	#tabla{
+		text-align: center
+	}
+	#tabla th {
+    background-color: #dcd0c0;
+      }
+	
+	tr:nth-child(odd){background-color: #FFFFFF;}
+
+	.centro{text-align: center; }
+</style>
+
