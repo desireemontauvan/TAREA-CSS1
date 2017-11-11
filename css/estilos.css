@@ -1,7 +1,7 @@
 
 	body {
 		background-color: #F4F4F4;
-		color:#373737
+		color:#373737; text-align=justify;
 	}
 	
 	h1 {
@@ -37,6 +37,4 @@
 	margin:auto;
 	}
 
-	.justificado{	
-	text-align : justify;
-	}
+	
