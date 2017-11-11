@@ -32,11 +32,9 @@
 	
 	tr:nth-child(odd){background-color: #FFFFFF;}
 
-
- .centro {
-	 width: 900px;
-	 margin: 0 auto;
-	 margin-bottom: 100px;
+img{
+	display:block;
+	margin:auto;
 	}
 
 .justifyText{	
