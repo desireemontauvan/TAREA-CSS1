@@ -38,3 +38,7 @@
 	 margin: 0 auto;
 	 margin-bottom: 100px;
 	}
+
+.justifyText{	
+	text-align : justify;
+	}
