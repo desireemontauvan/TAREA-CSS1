@@ -35,11 +35,8 @@
 	
 	}
 
-	div.centraTabla{
-		text-align: center;
-	}
-
-	div.centraTabla table {
-		margin: 0 auto;
-		text-align: left;
+	.centro {
+	width: 900px;
+	margin: 0 auto;
+	margin-bottom: 100px;
 	}
