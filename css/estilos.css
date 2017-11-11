@@ -40,4 +40,11 @@
 		margin-right: auto;
 	}
 
+	div.centraTabla{
+		text-align: center;
+	}
 
+	div.centraTabla table {
+		margin: 0 auto;
+		text-align: left;
+	}
