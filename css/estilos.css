@@ -41,11 +41,11 @@
 	
 	tr:nth-child(odd){background-color: #FFFFFF;}
 
-img{
+	img{
 	display:block;
 	margin:auto;
 	}
 
-.justifyText{	
+	.justifyText{	
 	text-align : justify;
 	}
